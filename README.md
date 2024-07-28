@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    <h1 align="center">preview do podcast</h1>
 </p>
 
 <div align="center">
@@ -31,12 +31,13 @@
     width="300"
 />
 </p>
+
 # Link do Spotfy
-<h1>Introdução à Arte dos Prompts: Desvendando os Segredos da IA</h1>
+**Introdução à Arte dos Prompts: Desvendando os Segredos da IA**
 
 [Introdução à Arte dos Prompts: Desvendando os Segredos da IA](https://open.spotify.com/show/5rBHaApRXbpApmP71rHODJ)
 
-<p>No episódio de estreia de "A Arte do Conhecimento: Desvendando a IA e os Prompts," Alana Daniele nos guia pelo fascinante mundo da inteligência artificial. Descubra como a IA aprende a reconhecer padrões e explore a arte dos prompts com a ferramenta inovadora ChatGPT. Ideal para iniciantes, este episódio revela como você pode interagir com a tecnologia de forma mais eficaz e inteligente. Prepare-se para desvendar os segredos da IA e transformar sua forma de entender e usar essa poderosa ferramenta!</p>
+No episódio de estreia de "A Arte do Conhecimento: Desvendando a IA e os Prompts," Alana Daniele nos guia pelo fascinante mundo da inteligência artificial. Descubra como a IA aprende a reconhecer padrões e explore a arte dos prompts com a ferramenta inovadora ChatGPT. Ideal para iniciantes, este episódio revela como você pode interagir com a tecnologia de forma mais eficaz e inteligente. Prepare-se para desvendar os segredos da IA e transformar sua forma de entender e usar essa poderosa ferramenta!
 
 # Projeto Podcast Gerado por I.A.s
 
